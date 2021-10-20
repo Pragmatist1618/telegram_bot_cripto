@@ -1,0 +1,18 @@
+from aiogram import types
+
+BOT_TOKEN = '***'
+
+PAYMENTS_TOKEN = '***'
+
+admin_id = '***'
+
+shop_id = '***'
+
+shop_article_id = '***'
+
+PAY_IMAGE_URL = 'https://cryptoschool.be/wp-content/uploads/2019/11/Cursus-beleggen-in-altcoins.jpg'
+
+SUBSCRIBE_PRICE = types.LabeledPrice(label='Подписка на месяц', amount=10000)
+
+BINANCE_API_TEST = '***'
+BINANCE_KEY_TEST = '***'
